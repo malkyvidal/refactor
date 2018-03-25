@@ -1,0 +1,6 @@
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\bin\Debug\Refactor.exe.config
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\bin\Debug\Refactor.exe
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\bin\Debug\Refactor.pdb
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\obj\Debug\Refactor.csprojResolveAssemblyReference.cache
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\obj\Debug\Refactor.exe
+c:\users\malkyvidal\documents\visual studio 2013\Projects\Refactor\Refactor\obj\Debug\Refactor.pdb
